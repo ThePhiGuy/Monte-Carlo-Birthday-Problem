@@ -30,6 +30,9 @@ int main(int argc, char **argv) {
                                          // This should be the total number of possible birthday number representations.
                                          // 365 for one day per year, ignoring age and ignoring leap year.
 
+    // @TODO Add functionality with un population reports for randomization of group with some biases towards enviornmental factors.
+    // @TODO Also add functionality with additional birthday resolutions (needed for above..)
+
     int numProcesses = 1;
     int id = 0;
 
