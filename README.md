@@ -1,11 +1,18 @@
 # 📊 Monte Carlo Simulation of the Birthday Problem
 
-This repository contains a Monte Carlo simulation that explores the Birthday Paradox — the unintuitive result from probability theory that in a group of just 23 people, the chance of at least two people sharing a birthday exceeds 50%. 
+This repository contains a Monte Carlo simulation that explores the Birthday Paradox, an unintuitive result from probability theory that in a group of just 23 people, the chance of at least two people sharing a birthday exceeds 50%. 
 https://en.wikipedia.org/wiki/Birthday_problem
 
 The simulation repeatedly randomizes birthdays for a set of groups of n people and estimates the probability of a shared birthday through experimental sampling.
 
-I got the idea for this project from a Project in Joel Adams' CS374 course at Calvin University, where we did monte carlo simulations of forest fire to learn MPI.
+I got the idea for this project from a Project in Joel Adams' CS374 course at Calvin University, where we did Monte Carlo simulations of forest fire to learn MPI.
+
+
+<p align="center">
+  <img width="591" height="361" alt="image" src="https://github.com/user-attachments/assets/ed3dacfc-ea6f-42bc-abff-0787a0930169" />
+</p>
+  
+> This graph was produced from the data by running the default settings for the program. It matches the same on the wikipedia article for the problem.
 
 # 🧠 Features
 
